@@ -1,0 +1,28 @@
+{
+    "greeting": [
+        "Hi {name}! How can I help you today?",
+        "Hello {name}! Welcome to our support chat. What brings you here?",
+        "Greetings {name}! How may I assist you?"
+    ],
+    "farewell": [
+        "Goodbye {name}! Have a great day!",
+        "Thanks for chatting, {name}! Feel free to come back if you need anything else.",
+        "Take care, {name}! Don't hesitate to reach out if you need further assistance."
+    ],
+    "product_info": [
+        "I'd be happy to tell you more about {message}. What specific information are you looking for?",
+        "Let me help you learn more about {message}. What would you like to know?"
+    ],
+    "support": [
+        "I understand you're having an issue with {message}. Let me help you resolve that.",
+        "I'll help you with your {message} concern. Could you provide more details?"
+    ],
+    "empathy": [
+        "I understand your frustration with {message}. Let me help make this right.",
+        "I'm sorry you're having trouble with {message}. Let's work together to solve this."
+    ],
+    "default": [
+        "I'm here to help with {message}. Could you provide more details?",
+        "Let me assist you with {message}. What specific information do you need?"
+    ]
+}
